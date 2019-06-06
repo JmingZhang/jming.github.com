@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## Welcome to Jianming's github page
+Hello! My name is Jianming Zhang, and I am a PhD candidate from SCUT
 You can use the [editor on GitHub](https://github.com/JmingZhang/jming.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
